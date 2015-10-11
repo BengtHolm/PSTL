@@ -1,3 +1,5 @@
+
+
 #include <iostream>
 #include <functional>
 #include <vector>
@@ -40,7 +42,7 @@ void sortAndPrint()
 	}
 	std::cout << std::endl;
 }
-
+/*
 int main()
 {
 	initialize();
@@ -48,3 +50,4 @@ int main()
 
 	return 0;
 }
+*/
